@@ -19,11 +19,12 @@ Tools & Libraries Used
 
 How to Run
 1. Clone the repository:
+
 git clone https://github.com/<your-username>/sign-language-recognition.git
 cd sign-language-recognition
 
-2. Install dependencies
+3. Install dependencies
    pip install -r requirements.txt
 
-3. Train the model (If not using pre-trained model): python train_model_asl.py
-4. Run real-time prediction: python predict_sign.py
+4. Train the model (If not using pre-trained model): python train_model_asl.py
+5. Run real-time prediction: python predict_sign.py
