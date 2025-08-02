@@ -23,7 +23,7 @@ How to Run
 git clone https://github.com/<your-username>/sign-language-recognition.git
 cd sign-language-recognition
 
-3. Install dependencies
+3. Install dependencies:
    pip install -r requirements.txt
 
 4. Train the model (If not using pre-trained model): python train_model_asl.py
