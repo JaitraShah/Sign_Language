@@ -20,7 +20,7 @@ Tools & Libraries Used
 How to Run
 1. Clone the repository:
 
-git clone https://github.com/<your-username>/sign-language-recognition.git
+git clone https://github.com<your-username>/sign-language-recognition.git
 cd sign-language-recognition
 
 3. Install dependencies
